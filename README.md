@@ -6,10 +6,19 @@
 
 ## 🖼️ Dashboard-Vorschau
 
-![Haupt-Dashboard](image_5e53f2.png)
+![KPI & Overall Sale](KPI&Overall%20Sale.png)
 
-*(Hinweis: Da die Original-.pbix-Datei archiviert wurde, dienen diese Vorschau und die beigefügte PDF-Dokumentation als Referenz für die visuelle Umsetzung.)*
+![Customer Demographics Summary](Custower%20Demographics%20Summary.png)
 
+![Purchasing Preferences](CD%20Purchasing%20Preferences.png)
+
+![Purchasing Preferences 2](CD%20Purchasing%20Preferences2.png)
+
+![Discount & Location Analysis](Discount%20&%20location%20analysis.png)
+
+![Location & Payment Analysis](Location%20&%20payment%20analysis.png)
+
+*(Hinweis: Da die Original-.pbix-Datei archiviert wurde, dienen diese Screenshots und die beigefügte PDF-Dokumentation als Referenz für die visuelle Umsetzung.)*
 ---
 
 ## 📌 Projektbeschreibung
